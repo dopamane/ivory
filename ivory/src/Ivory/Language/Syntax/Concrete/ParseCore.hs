@@ -10,7 +10,7 @@
 module Ivory.Language.Syntax.Concrete.ParseCore where
 
 import Prelude ()
-import Prelude.Compat
+import Prelude.Compat hiding (fail)
 
 import MonadLib
 import qualified Text.PrettyPrint as P

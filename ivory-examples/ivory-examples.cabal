@@ -14,8 +14,8 @@ license-file:        LICENSE
 data-files:          examples/file.ivory
 source-repository    this
   type:     git
-  location: https://github.com/GaloisInc/ivory
-  tag:      hackage-0.1.0.4
+  location: https://github.com/dopamane/ivory
+--  tag:      hackage-0.1.0.4
 
 executable ivory-c-clang-test
   main-is:              TestExamples.hs
